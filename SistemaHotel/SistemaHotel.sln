@@ -1,9 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.10.35027.167
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaHotel", "SistemaHotel\SistemaHotel.csproj", "{C319F394-4DED-490F-A5E9-E6D6BCB1A6AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLogin", "LOGIN1\CSLogin.csproj", "{2F75A203-2D7B-46D6-8D4B-7D8542925161}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Datos", "Datos", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		LOGIN1\FrmHuespedes.cs = LOGIN1\FrmHuespedes.cs
+		LOGIN1\FrmHuespedes.Designer.cs = LOGIN1\FrmHuespedes.Designer.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica", "Logica", "{E53E3F94-3938-4CC2-B0B9-E77F2D4A7CA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{BF2347C3-427B-4872-9791-2FEE23CAAADF}"
+	ProjectSection(SolutionItems) = preProject
+		LOGIN1\FrmMenu.cs = LOGIN1\FrmMenu.cs
+		LOGIN1\FrmMenu.Designer.cs = LOGIN1\FrmMenu.Designer.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Seguridad", "Seguridad", "{B238EC85-E93B-4B79-B3A2-A2A13E94C556}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +27,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C319F394-4DED-490F-A5E9-E6D6BCB1A6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C319F394-4DED-490F-A5E9-E6D6BCB1A6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C319F394-4DED-490F-A5E9-E6D6BCB1A6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C319F394-4DED-490F-A5E9-E6D6BCB1A6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F75A203-2D7B-46D6-8D4B-7D8542925161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F75A203-2D7B-46D6-8D4B-7D8542925161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F75A203-2D7B-46D6-8D4B-7D8542925161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F75A203-2D7B-46D6-8D4B-7D8542925161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F75A203-2D7B-46D6-8D4B-7D8542925161} = {B238EC85-E93B-4B79-B3A2-A2A13E94C556}
+	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7F45FA75-C7B7-41FE-9538-CF8F3AA6A071}
+		SolutionGuid = {CA381422-6973-4586-BD30-9405E9CB4A8C}
 	EndGlobalSection
 EndGlobal

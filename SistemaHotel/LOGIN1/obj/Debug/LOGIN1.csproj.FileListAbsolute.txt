@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\bin\Debug\LOGIN1.exe.config
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\bin\Debug\LOGIN1.exe
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\bin\Debug\LOGIN1.pdb
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.Form1.resources
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.Properties.Resources.resources
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.exe
+C:\Users\DELL\source\repos\LOGIN1\LOGIN1\obj\Debug\LOGIN1.pdb

@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\CSLogin.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\LOGIN1.FrmLogin.resources
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\LOGIN1.Properties.Resources.resources
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\CSLogin.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\CSLogin.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\LOGIN1.exe
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\LOGIN1.pdb
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\bin\Debug\LOGIN1.exe.config
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\bin\Debug\LOGIN1.exe
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\bin\Debug\LOGIN1.pdb
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\LOGIN1.FrmMENU.resources
+C:\Users\DELL\Desktop\Proyecto 1\LOGIN1\obj\Debug\LOGIN1.FrmHuespedes.resources
