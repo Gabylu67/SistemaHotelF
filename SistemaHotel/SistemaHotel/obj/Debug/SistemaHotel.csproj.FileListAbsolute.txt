@@ -1,0 +1,13 @@
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.AssemblyReference.cache
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Form1.resources
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaH.BDE743F0.Up2Date
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Users\gcoli\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Presentacion.FrmPagoPlanilla.resources
